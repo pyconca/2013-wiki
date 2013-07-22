@@ -1,4 +1,4 @@
 2013-wiki
 =========
 
-Everything related to the 2013 conference
+This repository is used for the wiki: https://github.com/pyconca/2013-wiki/wiki
